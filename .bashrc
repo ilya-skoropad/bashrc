@@ -81,3 +81,4 @@ alias dc-cache-cls="cacheClear"
 alias dc-logs="printDockerContainerLogs"
 alias cls="clear"
 alias fuck='sudo $(fc -ln -1)'
+alias update-bashrc="cp ./.bashrc ~/.bashrc"
